@@ -28,7 +28,6 @@
 
 ## Connect With me:
 <p align="left">
-<a href="mailto:rakeshsaraf2001@gmail.com"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="rakesh saraf" height="30" width="40" /></a>
 <a href="https://fb.com/rakesh saraf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rakesh saraf" height="30" width="40" /></a>
 <a href="https://instagram.com/_rakesss_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_rakesss_" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/rakesh010" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rakesh010" height="30" width="40" /></a>
@@ -40,13 +39,14 @@
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=rakesh-010&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
-<br/>  
-## Leetcode Stats 
+<br/> 
+
+
 <div align="center">
 [![Leetcode Stats](https://leetcard.jacoblin.cool/rakesh010?border=0&radius=20)](https://leetcode.com/rakesh010/)
 </div>
 
-
+<br />
 <p align="center">💙 If you like my projects, Give them ⭐ and Share it with friends!!</p>
 </p>
 
