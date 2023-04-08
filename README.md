@@ -43,6 +43,7 @@
 
 
 <div align="center">
+<img src="https://media0.giphy.com/media/ek2O7qoqZxR2H6tHN5/giphy.gif?cid=ecf05e47pyds3m0njau4tqz7mqh3pxfiiclckrqzs4jknt3w&rid=giphy.gif&ct=g" width="50" height="40">
 [![Leetcode Stats](https://leetcard.jacoblin.cool/rakesh010?border=0&radius=20)](https://leetcode.com/rakesh010/)
 </div>
 
