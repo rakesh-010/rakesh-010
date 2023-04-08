@@ -41,6 +41,7 @@
 
 <br/>  
 
+[![Leetcode Stats](https://leetcard.jacoblin.cool/rakesh010?border=0&radius=20)](https://leetcode.com/rakesh010/)
 
 
 ----
