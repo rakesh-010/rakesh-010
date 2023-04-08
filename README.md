@@ -38,11 +38,10 @@
 
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=rakesh-010&show_icons=true&count_private=true&hide_border=true" align="center" />
-![Leetcode Stats](https://leetcard.jacoblin.cool/rakesh010?border=0&radius=20)]
 
-</div>  
+</div>  <br />
 
-
+<div align="center">[![Leetcode Stats](https://leetcard.jacoblin.cool/rakesh010?border=0&radius=20)](https://leetcode.com/rakesh010/)</div>
 
 
 
