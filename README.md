@@ -38,7 +38,7 @@
 
 ## Some Stats  
 <div >
-<!--   ![Rakesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=rakesh-010&show_icons=true&theme=onedark) -->
+  ![Rakesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=rakesh-010&show_icons=true&theme=onedark)
 <img src="https://github-readme-stats.vercel.app/api?username=rakesh-010&show_icons=true&count_private=true&hide_border=true&theme=onedark" align="center" />
 
 </div>  <br />
