@@ -9,7 +9,7 @@
 ### <div align="center">I'm Rakesh, a  full-stack  developer 👨‍💻 currently pursuing my B.Tech in Computer Science🚀</div>  
   
 
-- 🔭 I’m currently working on A Hotel Management App  
+- 🔭 I’m currently working on something cool!  
   
 
 - ❓ Ask me about anything related to MERN stack and related technologies  
